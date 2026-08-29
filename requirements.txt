@@ -1,0 +1,10 @@
+streamlit
+deepface
+tensorflow-cpu
+tf-keras
+opencv-python-headless
+moviepy
+transformers
+torch
+librosa
+numpy
